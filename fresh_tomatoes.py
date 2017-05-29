@@ -3,7 +3,6 @@ import os
 import re
 
 
-##small change
 
 # Styles and scripting for the page
 main_page_head = '''
